@@ -41,6 +41,7 @@ alter table persons add email varchar (255)     /* adding column named email in 
 alter table persons drop column email          /*deleting column in persons table*/
 alter table persons alter column personID varchar /*changing datatype of column*/
 
+/*alter commands*/
 ALTER TABLE STUDENT ADD EMAIL VARCHAR(255)
 ALTER TABLE STUDENT ALTER CoLUMN EMAIL INT
 ALTER TABLE STUDENT DRoP CoLUMN EMAIL 
